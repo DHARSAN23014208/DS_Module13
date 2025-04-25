@@ -19,7 +19,6 @@ Program to find and display the priority of the operator in the given Postfix ex
 Developed by: Sai Vishal D
 RegisterNumber: 212223230180
 
-PROGRAM : 
 #include <stdio.h> 
 #include<string.h> 
 int priority(char x) 
